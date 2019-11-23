@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="UKFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UKFX_jar</output-path>
+    <root id="archive" name="UKFX.jar">
+      <element id="module-output" name="UKFX" />
+    </root>
+  </artifact>
+</component>
